@@ -1,0 +1,23 @@
+Slide 2: Introduction
+
+[Slide Title: Introduction]
+
+[Visual Suggestions: Picture or logo of Morgan Stanley on the upper corner, perhaps a picture of Vanier College on the other side. In the middle, you could have a simple bulleted list with the three main points you'll be discussing.]
+
+1. Brief Background About Morgan Stanley:
+
+"Morgan Stanley is a leading global financial services firm headquartered in New York City. It provides a wide variety of products and services to a large and diversified group of clients and customers, including corporations, governments, financial institutions, and individuals. These services encompass investment banking, securities, investment management, and wealth management. Since its founding in 1935, Morgan Stanley has been a significant player in the financial world, distinguishing itself with its reputation for integrity, professionalism, and excellence."
+
+2. Overview of the Summer Internship Program:
+
+"I was fortunate enough to be hired by Morgan Stanley for their prestigious summer internship program. The program is aimed at providing real-world experience to promising students in the field of computer science and technology. Interns are selected from top universities and colleges worldwide, and I was selected from Vanier College. The internship is structured for a duration of ten weeks, during which time we are exposed to the ins and outs of the technology-based financial industry. We are placed in teams and are assigned a specific project to work on. In my case, it was 'my Reports' project."
+
+3. Brief Summary of Tasks and Responsibilities:
+
+"During my time in the summer internship program, I was assigned the responsibility to work on the 'my Reports' project. I was entrusted with the task of creating the Content Management Admin Area, a pivotal component of the project. This role involved developing and maintaining the content management system, ensuring smooth data flow, and performing administrative tasks such as user management and security assurance. This role was both challenging and fulfilling, providing me with a comprehensive understanding of the practical aspects of my field of study."
+
+(Note: Please replace the information with more specific details about your role and tasks if possible.)
+
+[End of Slide]
+
+This structured introduction gives your audience a clear understanding of who Morgan Stanley is, the relevance and scope of their internship program, and your role in it. Make sure you add any additional information that could be important or interesting for your audience.
