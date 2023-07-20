@@ -1,0 +1,6 @@
+Importance of Learning Angular TS for Your Internship:
+"Learning Angular TS was instrumental during my internship at Morgan Stanley. In the 'my Reports' project, our team used Angular TS to create the Content Management Admin Area. Given its robustness and versatility, Angular TS proved to be an invaluable tool for developing a secure and efficient content management system.
+
+Mastering Angular TS enabled me to contribute significantly to the project. Its features such as modular structure, two-way data binding, and MVC architecture facilitated faster development and easier troubleshooting. This resulted in more efficient coding sessions and ultimately a more robust end product.
+
+The knowledge I gained about Angular TS during the internship has not only allowed me to improve my software development skills but also has prepared me to tackle more complex problems in future assignments."
